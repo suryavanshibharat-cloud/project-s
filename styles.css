@@ -1,0 +1,35 @@
+/* styles.css */
+
+/* --- General Body Styles --- */
+body {
+    /* Set a clean, readable font */
+    font-family: Arial, sans-serif;
+    /* Center the content horizontally */
+    text-align: center;
+    /* Set a light background color */
+    background-color: #f4f4f9;
+    /* Add some padding around the content */
+    padding: 20px;
+}
+
+/* --- H1 Heading Styles --- */
+h1 {
+    /* Set a dark, contrasting text color */
+    color: #333;
+    /* Add a background for emphasis */
+    background-color: #fff;
+    /* Add padding inside the heading box */
+    padding: 15px 25px;
+    /* Round the corners */
+    border-radius: 8px;
+    /* Add a subtle shadow */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* Set a nice size for the text */
+    font-size: 2.5em;
+    /* Add a margin below the heading */
+    margin-bottom: 30px;
+    /* Use a vibrant border on the bottom */
+    border-bottom: 4px solid #007bff;
+    /* Make the text bold */
+    font-weight: 700;
+}
